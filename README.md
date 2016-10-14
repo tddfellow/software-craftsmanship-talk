@@ -38,6 +38,12 @@ Software Engineer
 ### Quality & Speed Balance
 
 
+### Passion
+
+
+### Being a stakeholder
+
+
 ### Ethics
 
 
@@ -48,6 +54,49 @@ Software Engineer
 
 
 ### Learning
+
+
+### Practicing
+
+
+### Responsibility
+
+
+### Professionalism
+
+
+
+## Manifesto
+
+
+### Not only working software,
+
+### also well-crafted software
+
+
+### Not only responding to change,
+
+### also steadily adding value
+
+
+### Not only individuals and interactions,
+
+### also a community of professionals
+
+
+### Not only customer collaboration,
+
+### also productive partnerships
+
+
+
+## What Software Craftsmanship is not:
+
+
+### Not a church or a cult
+
+
+### Not about beautiful code
 
 
 
